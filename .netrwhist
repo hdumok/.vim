@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/home/mok/.vim/bundle'
+let g:netrw_dirhist_2='/home/mok/DataStructure'
+let g:netrw_dirhist_3='/home/mok/learn/.git'
